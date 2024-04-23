@@ -1,5 +1,8 @@
 import java.io.File;
 
+/**
+ * This is the main class
+ */
 public class Main {
     public static String sourceFilePath = "";
     public static File targetFile;
